@@ -1,0 +1,65 @@
+/*w ten sposob dodaje sie komentarze, ktorych nie widzi przegladarka*/
+body {
+	background: rgb(245,245,245) #d9efec;
+	color: #d9efec;
+	font-size: 25px;
+	/*font-weight: 300;
+	font-family: helvetica;
+	background-image: url(https://images.unsplash.com/photo-1507091249509-ea24980b1218?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1801&q=80)*/
+}
+
+h1 {
+  font-size: 100px;
+  background: -webkit-linear-gradient(#78AEFF, #C9A7EB);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+/*h1 {
+	font-color: #BBC6FF;
+font-family: "Dancing Script";
+font-size: 50px;
+}*/
+
+h2 {
+font-family: 'Indie Flower', cursive;
+font-size: 60px;
+}
+a:hover {color: pink}
+
+#banner {
+	text-align: center;
+	background-image: url(https://images.unsplash.com/photo-1496289600608-2f3625967342?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80);
+	font-size: 35px
+	background-size: cover;
+	margin: 10px;
+	padding: 75px
+}
+
+#footer {
+	text-align: left;
+	background-image: url(https://images.unsplash.com/photo-1496289600608-2f3625967342?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80);
+	font-size: 35px
+	background-size: cover;
+	margin: 10px;
+	padding: 35px
+
+}
+
+.section {padding: 50px;
+  font-weight: lighter;
+  text-align: center;
+}
+
+.social {
+color: white;
+font-size: 25px
+}
+
+ #main {
+ font-size: 72px;
+  background: -webkit-linear-gradient(#eee, #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin: 0px
+
+  }
